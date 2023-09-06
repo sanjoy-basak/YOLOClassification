@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/sanjoybasak/Desktop/matlab_works/classify_yolo_sig/YOLO_mod_2/clc_singlesig_Keras/wyolo_yololite_dronesig.tfl"
+all_model_checkpoint_paths: "/home/sanjoybasak/Desktop/matlab_works/classify_yolo_sig/YOLO_mod_2/clc_singlesig_Keras/wyolo_yololite_dronesig.tfl"
